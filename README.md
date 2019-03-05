@@ -13,6 +13,7 @@ As an alternative we have your quiz history as:
 - min points,
 - point deduction,
 - achievability.
+
 In addition, we have the ability to send the message to the Admin in real time.
 While in Admin space we do:
 Student Management
